@@ -10,6 +10,9 @@ contributor:
     deathdate: 1956
     gutenberg_agent_id: '54519'
     url: http://www.gutenberg.org/2009/agents/54519
+covers:
+- cover_type: archival
+  image_path: 67898-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Goldfrap, John Henry
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67898#The-Bungalow-Boys-on-the-Great-Lakes
 gutenberg_issued: '2022-04-21'
 identifiers:
   gutenberg: '67898'
